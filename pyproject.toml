@@ -39,8 +39,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yash9439/codetoprompt"
-Repository = "https://github.com/yash9439/codetoprompt"
+Homepage = "https://github.com/yash9439/codetoprompt-mcp"  
+Repository = "https://github.com/yash9439/codetoprompt-mcp"
+Issues = "https://github.com/yash9439/codetoprompt-mcp/issues" 
 
 [project.scripts]
 ctp-mcp = "codetoprompt_mcp.mcp:run_server"
